@@ -1,4 +1,4 @@
-package com.teamnine.livestreaming;
+package com.osakapigs.livestreaming;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
