@@ -1,4 +1,4 @@
-package com.osakapigs.livestreaming.Entity.Base;
+package com.osakapigs.livestreaming.entity.base;
 
 import jakarta.persistence.MappedSuperclass;
 import org.springframework.data.annotation.CreatedDate;

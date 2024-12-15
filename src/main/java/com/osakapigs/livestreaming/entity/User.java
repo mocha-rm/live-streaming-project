@@ -1,6 +1,6 @@
-package com.osakapigs.livestreaming.Entity;
+package com.osakapigs.livestreaming.entity;
 
-import com.osakapigs.livestreaming.Entity.Base.BaseEntity;
+import com.osakapigs.livestreaming.entity.base.BaseEntity;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
